@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🧡 I’m interested in Reinforcement learning & generative model & evo-devo & epigenetics & medicine 
 - 📫 Reach me at qichen dot huang at umontreal.ca 
 
-Previously
+previously
 
 - BSc. Stat & Math @ UBC
 - TSC Student Athlete @ Triathlon UBC 🏊‍♂️🚴‍♂️🏃‍♂️ 
