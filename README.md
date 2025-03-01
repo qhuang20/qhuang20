@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **qhuang20/qhuang20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+- 👋 Hi, I’m @qhuang20
+- 🧬 MSc. Bioinformatics @ UdeM - Faculty of Medicine @ Mila - Quebec AI Institute (w Prof. Paul François)
+- 🧡 I’m interested in Reinforcement learning & generative model & evo-devo & epigenetics & medicine 
+- 📫 Reach me at qichen dot huang at umontreal.ca 
+
+Previously
+
+- BSc. Stat & Math @ UBC
+- TSC Student Athlete @ Triathlon UBC 🏊‍♂️🚴‍♂️🏃‍♂️ 
+
+
+
+
+
+
+
