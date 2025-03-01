@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 
 
+
 - 👋 Hi, I’m @qhuang20
 - 🧬 MSc. Bioinformatics @ UdeM - Faculty of Medicine @ Mila - Quebec AI Institute (w Prof. Paul François)
 - 🧡 I’m interested in Reinforcement learning & generative model & evo-devo & epigenetics & medicine 
@@ -23,12 +24,7 @@ Here are some ideas to get you started:
 
 previously
 
-- BSc. Stat & Math @ UBC
+- BSc. Mathematics, Statistics @ UBC
 - TSC Student Athlete @ Triathlon UBC 🏊‍♂️🚴‍♂️🏃‍♂️ 
-
-
-
-
-
 
 
