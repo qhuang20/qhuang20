@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 previously
 
 - BSc. Mathematics, Statistics @ UBC
-- TSC Student Athlete @ Triathlon UBC 🏊‍♂️🚴‍♂️🏃‍♂️ 
+- TSC Student Athlete @ Triathlon UBC 🏊‍♂️🚴‍♂️🏃‍♂️
+- iOS Developer, Co-Founder @ [UniBoost](https://github.com/qhuang20/UniBoost-v2.1) 📱🚀 
 
 
