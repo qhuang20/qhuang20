@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 - 👋 Hi, I’m @qhuang20
-- 🧬 MSc. Bioinformatics @ UdeM - Faculty of Medicine @ Mila - Quebec AI Institute (w Prof. Paul François)
-- 🧡 I’m interested in Reinforcement learning & generative model & evo-devo & epigenetics & medicine 
+- 🧬 MSc. Bioinformatics @ UdeM @ Mila 
+- 🧡 Reinforcement Learning & Generative Model & evo-devo & Epigenetics & Medicine 
 - 📫 Reach me at qichen dot huang at umontreal.ca 
 
 previously
