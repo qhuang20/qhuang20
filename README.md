@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @qhuang20
 - 🧬 MSc. Bioinformatics @ UdeM @ Mila 
-- 🧡 Reinforcement Learning & Generative Model & evo-devo & Epigenetics & Medicine 
+- 🧡 Reinforcement Learning & Systems biology & evo-devo & Epigenetics & Medicine 
 - 📫 Reach me at qichen dot huang at umontreal.ca 
 
 previously
@@ -27,5 +27,4 @@ previously
 - BSc. Mathematics, Statistics @ UBC
 - TSC Student Athlete @ Triathlon UBC 🏊‍♂️🚴‍♂️🏃‍♂️
 - iOS Developer, Co-Founder @ [UniBoost](https://github.com/qhuang20/UniBoost-v2.1) 📱🚀 
-
 
