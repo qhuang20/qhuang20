@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @qhuang20 
 - 🧬 MSc Student in Bioinformatics @ UdeM @ Mila 
 - 🧡 Reinforcement Learning & Systems Biology & evo-devo & Epigenetics & Medicine 
-- 📫 Reach me at qichen dot huang at umontreal.ca or via my assistant [@QclawQ](https://github.com/QclawQ)
+- 📫 Reach me at qichen dot huang at umontreal.ca or via my assistant @ [QclawQ](https://github.com/QclawQ)
 
 previously
 
