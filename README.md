@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🧬 MSc Student in Bioinformatics @ UdeM @ Mila 
 - 🧡 Reinforcement Learning & Systems Biology & evo-devo & Epigenetics & Medicine 
 - 📫 Reach me at qichen dot huang at umontreal.ca   
+- 🤖 My assistant agent: [@QclawQ](https://github.com/QclawQ)
 
 previously
 
